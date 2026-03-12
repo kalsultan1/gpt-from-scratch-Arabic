@@ -41,18 +41,17 @@ d_model = 256
 dropout = 0.1
 
 **Step 1: Collect Pretraining Data**
-"""
 
-"""**Step 2: Tokenizer**"""
-
-
-"""**Step 3: GPT Model**"""
+**Step 2: Tokenizer**
 
 
-"""**Step 4: Pretraining**"""
+**Step 3: GPT Model**
 
 
-"""**Step 5: Fine-tuning**"""
+**Step 4: Pretraining**
 
 
-"""**Step 6: Evaluation**"""
+**Step 5: Fine-tuning**
+
+
+**Step 6: Evaluation**
